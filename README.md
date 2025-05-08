@@ -7,8 +7,8 @@
 
 You will see the activation options
 
-• Press 1- HWID for Windows activation.
+>• Press 1- HWID for Windows activation.
 
-• Press 2 - Ohook for Office activation.
+>• Press 2 - Ohook for Office activation.
 
 Enjoy))
