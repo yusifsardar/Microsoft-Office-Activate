@@ -1,2 +1,1 @@
-# Microsoft-Office-Activate
-Activate Microsoft Office woth PowerShell
+irm https://get.activated.win | iex
